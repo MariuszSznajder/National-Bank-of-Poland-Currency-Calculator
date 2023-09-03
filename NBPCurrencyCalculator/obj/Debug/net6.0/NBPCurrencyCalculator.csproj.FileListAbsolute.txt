@@ -1,0 +1,17 @@
+C:\Users\MariuszSznajder\source\repos\WorkshopsApril\NBPCurrencyCalculator\bin\Debug\net6.0\NBPCurrencyCalculator.exe
+C:\Users\MariuszSznajder\source\repos\WorkshopsApril\NBPCurrencyCalculator\bin\Debug\net6.0\NBPCurrencyCalculator.deps.json
+C:\Users\MariuszSznajder\source\repos\WorkshopsApril\NBPCurrencyCalculator\bin\Debug\net6.0\NBPCurrencyCalculator.runtimeconfig.json
+C:\Users\MariuszSznajder\source\repos\WorkshopsApril\NBPCurrencyCalculator\bin\Debug\net6.0\NBPCurrencyCalculator.dll
+C:\Users\MariuszSznajder\source\repos\WorkshopsApril\NBPCurrencyCalculator\bin\Debug\net6.0\NBPCurrencyCalculator.pdb
+C:\Users\MariuszSznajder\source\repos\WorkshopsApril\NBPCurrencyCalculator\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\MariuszSznajder\source\repos\WorkshopsApril\NBPCurrencyCalculator\obj\Debug\net6.0\NBPCurrencyCalculator.csproj.AssemblyReference.cache
+C:\Users\MariuszSznajder\source\repos\WorkshopsApril\NBPCurrencyCalculator\obj\Debug\net6.0\NBPCurrencyCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MariuszSznajder\source\repos\WorkshopsApril\NBPCurrencyCalculator\obj\Debug\net6.0\NBPCurrencyCalculator.AssemblyInfoInputs.cache
+C:\Users\MariuszSznajder\source\repos\WorkshopsApril\NBPCurrencyCalculator\obj\Debug\net6.0\NBPCurrencyCalculator.AssemblyInfo.cs
+C:\Users\MariuszSznajder\source\repos\WorkshopsApril\NBPCurrencyCalculator\obj\Debug\net6.0\NBPCurrencyCalculator.csproj.CoreCompileInputs.cache
+C:\Users\MariuszSznajder\source\repos\WorkshopsApril\NBPCurrencyCalculator\obj\Debug\net6.0\NBPCurrencyCalculator.csproj.CopyComplete
+C:\Users\MariuszSznajder\source\repos\WorkshopsApril\NBPCurrencyCalculator\obj\Debug\net6.0\NBPCurrencyCalculator.dll
+C:\Users\MariuszSznajder\source\repos\WorkshopsApril\NBPCurrencyCalculator\obj\Debug\net6.0\refint\NBPCurrencyCalculator.dll
+C:\Users\MariuszSznajder\source\repos\WorkshopsApril\NBPCurrencyCalculator\obj\Debug\net6.0\NBPCurrencyCalculator.pdb
+C:\Users\MariuszSznajder\source\repos\WorkshopsApril\NBPCurrencyCalculator\obj\Debug\net6.0\NBPCurrencyCalculator.genruntimeconfig.cache
+C:\Users\MariuszSznajder\source\repos\WorkshopsApril\NBPCurrencyCalculator\obj\Debug\net6.0\ref\NBPCurrencyCalculator.dll

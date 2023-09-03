@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cLcb1cs0NyvNX+rymZsU7dpv28YDPTqFE6CsoD+gG3xgMUU8FU/EHrX+hV+/4GbLt4DCD1LYbjNDpCcmnBj4Sw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MariuszSznajder\\source\\repos\\WorkshopsApril\\NBPCurrencyCalculator\\NBPCurrencyCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MariuszSznajder\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
