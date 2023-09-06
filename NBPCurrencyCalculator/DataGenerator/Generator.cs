@@ -117,7 +117,6 @@ namespace NBPCurrencyCalculator.DataGenerator
         public static void DisplayListOfRates(string jsonFilePath)
         {
 
-
             List<ExchangeRateTable> exchangeRateTables = JsonConvert.DeserializeObject<List<ExchangeRateTable>>(jsonFilePath);
 
             Console.ForegroundColor = ConsoleColor.Yellow;
