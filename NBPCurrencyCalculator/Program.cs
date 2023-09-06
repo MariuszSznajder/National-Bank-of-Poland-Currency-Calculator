@@ -5,7 +5,7 @@ namespace NBPCurrencyCalculator
     public class Program
     {
 
-        static async Task Main()
+        static void Main()
         {
             AppMenu.DisplayUserData();
         }
